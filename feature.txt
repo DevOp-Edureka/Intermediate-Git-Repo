@@ -1,3 +1,10 @@
 
 Feature file has been created. Great --- Good --- Nice
+New and Final Line added.
+
+Cover is a one-page template for building simple and beautiful home pages.
+Download, edit the text, and add your own fullscreen background photo to make it your own.
+feature file created. Great --- Good --- NiceCover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.
+
+Resolve the conflicts !! Cheers !!!
 
