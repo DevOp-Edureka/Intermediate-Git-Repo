@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+New Line added.
+NO------Line------Here
+Cover is a one-page template for building simple and beautiful home pages.
+Download, edit the text, and add your own fullscreen background photo to make it your own.
+feature file created. Great --- Good --- NiceCover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.
+
+=======
 
 Feature file created. Good Delete Lines by C1
 Download, edit the text, and add your own fullscreen background photo to make it your own.
 feature file created. Great --- Good --- Nice
 Conflix Resolve --- Thanks
+>>>>>>> main
